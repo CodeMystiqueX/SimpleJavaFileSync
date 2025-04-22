@@ -174,6 +174,8 @@
   java -jar C:\path\to\SimpleJavaFileSync.jar C:\sourceDir C:\targetDir >> C:\logs\sync.log 2>&1
   ```
 ---
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持！
 
 ## 许可证
 本项目采用 [MIT 许可证](LICENSE)，您可以自由使用、修改和分发代码，但需保留版权声明。
